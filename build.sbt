@@ -1,6 +1,6 @@
 organization := "com.example.shapeless"
 
-name := "scala-test"
+name := "shapeless-examples"
 
 version := "1.0"
 
